@@ -32,7 +32,7 @@ To install the game and its dependencies, follow these steps:
 
 1. Clone the repository
     \```bash
-    git clone https://github.com/[EricSoderquist]/Yahtzee-Multiplayer-Game-Analysis.git
+    git clone https://github.com/EricSoderquist/Yahtzee-Multiplayer-Game-Analysis.git
     \```
 
 2. Navigate to the project directory
