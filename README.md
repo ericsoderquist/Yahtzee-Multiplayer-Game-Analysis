@@ -1,15 +1,19 @@
 # Yahtzee Multiplayer Game Analysis
 
 ## Table of Contents
-1. [Introduction](#Introduction)
-2. [Technologies](#Technologies)
-3. [Features](#Features)
-4. [Installation](#Installation)
-5. [Usage](#Usage)
-6. [Statistical Analysis](#Statistical-Analysis)
-7. [Contributing](#Contributing)
-8. [License](#License)
-9. [Acknowledgments](#Acknowledgments)
+1. [Table of Contents](#table-of-contents)
+2. [Introduction](#introduction)
+3. [Technologies](#technologies)
+4. [Features](#features)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Statistical Analysis](#statistical-analysis)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Acknowledgments](#acknowledgments)
+11. [Future Work](#future-work)
+12. [Known Issues](#known-issues)
+13. [Frequently Asked Questions](#frequently-asked-questions)
 
 ---
 
@@ -31,25 +35,25 @@ The Yahtzee Multiplayer Game Analysis repository is an academic endeavor to buil
 To install the game and its dependencies, follow these steps:
 
 1. Clone the repository
-    \```bash
+    ```bash
     git clone https://github.com/EricSoderquist/Yahtzee-Multiplayer-Game-Analysis.git
-    \```
+    ```
 
 2. Navigate to the project directory
-    \```bash
+    ```bash
     cd Yahtzee-Multiplayer-Game-Analysis
-    \```
+    ```
 
 3. Install required packages
-    \```bash
+    ```bash
     pip install -r requirements.txt
-    \```
+    ```
 
 ## Usage
 To run the game, execute the following command:
-\```bash
+```bash
 python yahtzee.py
-\```
+```
 
 ## Statistical Analysis
 The project includes a variety of statistical tools for analyzing gameplay. Utilizing NumPy, the statistical analysis features include but are not limited to:
